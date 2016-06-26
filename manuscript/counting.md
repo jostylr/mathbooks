@@ -16,3 +16,21 @@ This is why we have numbers. We can count out one at a time, or five at a time, 
 
 Another 
 
+## Mnemonics
+
+## Tools
+
+## Pebbles
+
+## Applications
+
+## Programming
+
+## Cheat Sheet
+
+## Proofs
+
+Here we discuss the formal aspects of counting. We start with the foundational concept of a set. This is an undefined concept in the approach we are taking as it is the basic starting concept (something has to start undefined). But we can think of them as groups of stuff. There is no implied ordering of items in a set. It is just a collection of items. 
+
+Sets can be joined together in a process called the union. A union consists of all elements in the given set. Unions operate on sets of sets. Intersection is another set concept, but here we form a set of all the common elements. 
+
